@@ -2,7 +2,7 @@
 Bash Shell Scripts
 
 
-Purpose of this script is to Set Fs Full Alert on Unix Server.
+Purpose of this script is to Set Fs Full Alert on Linux Server.
 
 Clone script to your server
 
